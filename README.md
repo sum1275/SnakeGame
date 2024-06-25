@@ -7,7 +7,10 @@ A classic Snake game implemented using HTML, CSS, and JavaScript. This project i
 
 ## Demo
 
-![Snake game](https://github.com/sum1275/SnakeGame/assets/59500999/c034372b-6f41-4914-afe4-33e9de5001f1)
+
+
+https://github.com/sum1275/SnakeGame/assets/59500999/06d08ffd-ef58-4ebe-bf96-525eea8c1226
+
 
 
 ## Features
